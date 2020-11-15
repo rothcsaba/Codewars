@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ASum/ASum.iml" filepath="$PROJECT_DIR$/ASum/ASum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AreTheyTheSame/AreTheyTheSame.iml" filepath="$PROJECT_DIR$/AreTheyTheSame/AreTheyTheSame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuildAPileOfCubes/BuildAPileOfCubes.iml" filepath="$PROJECT_DIR$/BuildAPileOfCubes/BuildAPileOfCubes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Codewars.iml" filepath="$PROJECT_DIR$/.idea/Codewars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EqualSidesOfAnArray/EqualSidesOfAnArray.iml" filepath="$PROJECT_DIR$/EqualSidesOfAnArray/EqualSidesOfAnArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FindTheNextPerfectSquare/FindTheNextPerfectSquare.iml" filepath="$PROJECT_DIR$/FindTheNextPerfectSquare/FindTheNextPerfectSquare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SumOfOddNumbers/SumOfOddNumbers.iml" filepath="$PROJECT_DIR$/SumOfOddNumbers/SumOfOddNumbers.iml" />
+    </modules>
+  </component>
+</project>
