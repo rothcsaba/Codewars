@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/RectangleIntoSquares/RectangleIntoSquares.iml" filepath="$PROJECT_DIR$/RectangleIntoSquares/RectangleIntoSquares.iml" />
       <module fileurl="file://$PROJECT_DIR$/SumOfOddNumbers/SumOfOddNumbers.iml" filepath="$PROJECT_DIR$/SumOfOddNumbers/SumOfOddNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/TribonacciSequence/TribonacciSequence.iml" filepath="$PROJECT_DIR$/TribonacciSequence/TribonacciSequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeightForWeight/WeightForWeight.iml" filepath="$PROJECT_DIR$/WeightForWeight/WeightForWeight.iml" />
     </modules>
   </component>
 </project>
