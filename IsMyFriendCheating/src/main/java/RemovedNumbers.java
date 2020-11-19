@@ -22,7 +22,7 @@ public class RemovedNumbers {
 
     public static void main(String[] args) {
         List<long[]> longs = removNb(26);
-        for (long[] array: longs) {
+        for (long[] array : longs) {
             System.out.println(array[0] + " " + array[1]);
         }
     }
